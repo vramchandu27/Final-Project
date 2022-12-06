@@ -1,0 +1,74 @@
+.Account_outer1 {
+    padding-left: 400px;
+}
+
+.Digital_Accounthead {
+    font-size: 30px;
+    color: #046874;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.Digital_personal {
+    font-size: 24px;
+    color: rgb(148, 4, 4);
+    opacity: 0.4;
+}
+
+.Label_Surname {
+    font-size: 20px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.Label_Fullname {
+    font-size: 20px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.Label_DateofBirth {
+    font-size: 20px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.Label_Gender {
+    font-size: 20px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.Label_State {
+    font-size: 20px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.Label_City {
+    font-size: 20px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.Label_Address {
+    font-size: 20px;
+    color: brown;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 800;
+}
+
+.button_check2 {
+    padding: 8px 20px;
+    font-size: 20px;
+    color: black;
+    font-weight: 100;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    cursor: pointer;
+    margin-left: 370px;
+}

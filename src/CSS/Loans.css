@@ -1,0 +1,116 @@
+.Loans_outer {
+    background-color: #ffffff;
+    margin-top: 0px;
+}
+
+.Loans_Title {
+    font-size: 40px;
+    font-weight: 600;
+    padding-left: 10px;
+    color: #4a365e
+}
+
+.Loans_flex {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.Personal_Title {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.personal_img {
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color: #046874;
+    cursor: pointer;
+
+}
+
+.personal_img:hover {
+    opacity: 0.1;
+    transition: 0.8s;
+}
+
+
+.Home_Title {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Home_img {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: #046874;
+    cursor: pointer;
+}
+
+.Home_img:hover {
+    opacity: 0.5;
+    transition: 0.8s;
+}
+
+.Vehicle_Title {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Vehicle_img {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: #046874;
+    cursor: pointer;
+}
+
+.Vehicle_img:hover {
+    opacity: 0.5;
+    transition: 0.8s;
+}
+
+.Fixed_Title {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Fixed_img {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: #046874;
+    cursor: pointer;
+
+}
+
+.Fixed_img :hover {
+    opacity: 0.1;
+    transition: 0.8s;
+}
+
+.Mutual_Title {
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Mutual_img {
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: #046874;
+    cursor: pointer;
+}
+
+.Mutual_img :hover {
+    opacity: 0.1;
+    transition: 0.8s;
+}

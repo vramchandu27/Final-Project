@@ -1,0 +1,81 @@
+.user_flex {
+    display: flex;
+}
+
+.user_main {
+    border-style: solid;
+    width: 450px;
+    height: 1116px;
+    border-left: none;
+    border-top: none;
+    background-color: rgb(1, 33, 35);
+}
+
+.user_img {
+    width: 140px;
+    height: 120px;
+    margin-top: 30px;
+    margin-left: 40px;
+    border-radius: 150px;
+}
+
+.user_heading {
+    margin-left: 40px;
+    font-weight: 700;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: brown;
+}
+
+.user_profile {
+    font-size: 15px;
+    margin-left: 40px;
+    margin-top: -10px;
+    opacity: 0.6;
+    color: rgb(255, 255, 255);
+    font-weight: 700;
+    font-family: inherit;
+}
+
+.user_transactions {
+    margin-left: 40px;
+    color: white;
+    margin-top: 20px;
+    font-size: 25px;
+    color: brown;
+}
+
+.user_checkbook {
+    margin-left: 40px;
+    color: white;
+    margin-top: 20px;
+    font-size: 25px;
+    color: brown;
+}
+
+.loan_main {
+    display: flex;
+
+}
+
+.loan_personal {
+    font-size: 20px;
+}
+
+.Loan_description {
+    font-size: 11px;
+    margin-left: 40px;
+    color: brown;
+    opacity: 0.8;
+}
+
+.Loan_Button {
+    margin-left: 1000px;
+    padding: 5px 10px;
+    margin-bottom: 20px;
+}
+
+.Loan_main {
+    border-style: solid;
+    border-width: 1px;
+    border-left: none;
+}

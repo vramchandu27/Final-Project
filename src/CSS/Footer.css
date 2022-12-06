@@ -1,0 +1,46 @@
+.Footer {
+    display: flex;
+    background-color: #4a365e;
+    justify-content: space-around;
+    margin-top: 30px;
+}
+
+.Footer_title {
+    margin-left: 10px;
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+}
+
+.Footer_phoneno {
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    opacity: 0.9;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.Footer_head3 {
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    opacity: 0.9;
+    font-family: cursive;
+    font-size: 15px;
+}
+
+.Footer_Offer {
+    color: rgb(0, 0, 0);
+    font-weight: 900;
+}
+
+.Footer_holder {
+    color: rgb(2, 1, 3);
+    font-weight: 900;
+}
+
+.Footer_lhead {
+    color: rgb(255, 255, 255);
+    margin-left: 10px;
+    opacity: 0.9;
+    font-family: cursive;
+    font-size: 15px;
+}
